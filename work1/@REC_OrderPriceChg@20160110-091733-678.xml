@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MT_REC_OrderPriceChg xmlns:ns0="http://wu-mart.com/xi/R2HQ"><NewDataSet><REC_OrderPriceChg><SKU>460187</SKU><ExeBranch_ID>1011</ExeBranch_ID><SupplierCode>323120</SupplierCode><NewOrderPrice>42.48 </NewOrderPrice><StartDate>2016-01-10</StartDate><RecFlag>0</RecFlag><ID>1</ID><MakeDT>2016-01-10 09:17:33</MakeDT></REC_OrderPriceChg></NewDataSet></ns0:MT_REC_OrderPriceChg>

@@ -1,0 +1,9 @@
+Mon, 01 Aug 2016 20:33:11 mysql.py[line:14] WARNING (2005, "Unknown MySQL server host 'testsjerpnext.cd0ehwqwg0z0.rds.cn-north-1.amazonaws.com.cn' (-2)")
+Mon, 01 Aug 2016 20:33:11 merchandise.py[line:59] WARNING 'NoneType' object has no attribute 'cursor'
+Mon, 01 Aug 2016 20:33:11 merchandise.py[line:214] INFO 核对结束
+Tue, 02 Aug 2016 08:25:11 mysql.py[line:14] WARNING (2005, "Unknown MySQL server host 'testsjerpnext.cd0ehwqwg0z0.rds.cn-north-1.amazonaws.com.cn' (-2)")
+Tue, 02 Aug 2016 08:25:11 merchandise.py[line:59] WARNING 'NoneType' object has no attribute 'cursor'
+Tue, 02 Aug 2016 08:25:11 merchandise.py[line:214] INFO 核对结束
+Tue, 02 Aug 2016 08:35:01 mysql.py[line:14] WARNING 
+Tue, 02 Aug 2016 08:35:01 merchandise.py[line:40] WARNING 'NoneType' object has no attribute 'cursor'
+Tue, 02 Aug 2016 08:35:01 merchandise.py[line:214] INFO 核对结束

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MT_REC_SalePriceChg xmlns:ns0="http://wu-mart.com/xi/cvs_pos"><NewDataSet><REC_RetailPriceChg><SKU>560360</SKU><ExeBranch_ID>8001</ExeBranch_ID><NewSellPrice>65.80 </NewSellPrice><StartDate>2016-05-15</StartDate><RecFlag>0</RecFlag><ID>1</ID><MakeDT>2016-05-14 09:52:16</MakeDT></REC_RetailPriceChg></NewDataSet></ns0:MT_REC_SalePriceChg>
